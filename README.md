@@ -1,2 +1,4 @@
 # hello-world
-store my ideas and resources,
+Hi Shirley!
+
+Hubot here, I like Node
